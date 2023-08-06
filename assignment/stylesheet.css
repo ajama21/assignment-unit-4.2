@@ -2,12 +2,21 @@
 
 header{
     background-color: rgb(101, 136, 155);
+
 }
 
 .info{
+    right: 24%;
+    left: 24%;
     background-color:white;
     text-align: center;
 }
 h2{
     background-color: beige;
 }
+
+h3{
+    background-color: beige;
+    
+}
+
